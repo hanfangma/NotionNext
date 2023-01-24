@@ -1,6 +1,6 @@
 const CONFIG_HEXO = {
   HOME_BANNER_ENABLE: true,
-  HOME_BANNER_GREETINGS: ['哈罗！Hi, there!', '我分享学习笔记关于： Sharing my learning about', '动画 Animation', '游戏开发 Game Development' , '计算机图形学 Computer Graphics' , '欢迎来到我的博客！ Welcome to my blog🎉'], // 首页大图标语文字
+  HOME_BANNER_GREETINGS: ['哈罗！Hi, there!', '动画 Animation', '游戏开发 Game Development' , '计算机图形学 Computer Graphics' , '欢迎来到我的博客！ Welcome to my blog🎉'], // 首页大图标语文字
 
   HOME_NAV_BUTTONS: true, // 首页是否显示分类大图标按钮
 
